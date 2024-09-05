@@ -1,5 +1,6 @@
 import React from 'react'
-import { Button, ShoeCard} from '../Components/Button'
+import { Button } from '../Components'
+import { ShoeCard } from '../Components'
 import { arrowRight } from '../assets/icons'
 import { shoes, statistics } from '../Constants'
 import { bigShoe1 } from '../assets/images'
